@@ -20,14 +20,13 @@ Open the `memory-game.html` file in a modern web browser (such as Chrome, Firefo
 - Built with React for a dynamic and interactive experience.
 - Move counter and timer to track your performance.
 - Reset and Play Again buttons for easy game control.
-- Responsive design using Tailwind CSS for a clean and modern look.
+- Responsive design using local CSS for a clean and modern look.
 - Fun animations when cards are matched.
 
 ## Technologies Used
 
 - [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Babel](https://babeljs.io/) (for JSX transformation)
+- Custom CSS
 
 ## License
 
